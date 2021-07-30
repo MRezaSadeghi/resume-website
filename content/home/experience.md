@@ -9,7 +9,7 @@ headless: true
 # Order that this section appears on the page.
 weight: 40
 
-title: Experience
+title: Experiences
 subtitle:
 
 # Date format for experience
@@ -31,11 +31,11 @@ experience:
     date_end: ''
     description: |2-
         Responsibilities include:
-        
+
         * Analysing
         * Modelling
         * Deploying
-        
+
   - title: Professor of Semiconductor Physics
     company: University X
     company_url: ''
