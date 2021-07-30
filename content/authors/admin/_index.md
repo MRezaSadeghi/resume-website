@@ -10,7 +10,7 @@ role: Mechanical Engineer
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: University of Science & Technology
+- name: Iran University of Science & Technology
   url: http://mech.iust.ac.ir/index.php?sid=16&slc_lang=en
 
 # Short bio (displayed in user profile at end of posts)
@@ -45,7 +45,10 @@ social:
   link: https://github.com/mrezasadeghi
 - icon: linkedin
   icon_pack: fab
-  link: hhttps://github.com/mrezasadeghi
+  link: hhttps://linkedin.com/mrezasadeghi
+- icon: telegram
+  icon_pack: fab
+  link: hhttps://t.me/mrezasadeghi1
 
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.toml`,
