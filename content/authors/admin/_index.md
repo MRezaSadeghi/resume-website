@@ -14,7 +14,7 @@ organizations:
   url: http://mech.iust.ac.ir/index.php?sid=16&slc_lang=en
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include distributed Condition Monitoring, Control and Artificial Intelligence.
 
 # Interests to show in About widget
 interests:
@@ -26,7 +26,7 @@ interests:
 education:
   courses:
   - course: BSc in Mechanical Engineering
-    institution: Massachusetts Institute of Technology
+    institution: Iran University of Science & Technology
     year: 2021
 
 # Social/Academic Networking
@@ -45,10 +45,10 @@ social:
   link: https://github.com/mrezasadeghi
 - icon: linkedin
   icon_pack: fab
-  link: hhttps://linkedin.com/mrezasadeghi
+  link: https://linkedin.com/mrezasadeghi
 - icon: telegram
   icon_pack: fab
-  link: hhttps://t.me/mrezasadeghi1
+  link: https://t.me/mrezasadeghi1
 
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.toml`,
@@ -68,4 +68,4 @@ Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resume{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/resume.pdf" "newtab" >}}resume{{< /staticref >}}.
