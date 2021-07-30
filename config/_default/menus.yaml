@@ -4,8 +4,8 @@
 #   The weight parameter defines the order that the links will appear in.
 
 main:
-  - name: Experienes
-    url: '#experienes'
+  - name: Experiences
+    url: '#experiences'
     weight: 10
   - name: Projects
     url: '#projects'
