@@ -45,16 +45,17 @@ experience:
         * Sheet metal designing for industrial power switching supplier
         * Laser cut design for PMMA (Plexiglass) panels
 
-  - title: Part-time Mechanical Designer 2
-    company: IPC Company
-    company_url: 'http://ipcweld.com/'
+  - title: R&D Intern
+    company: Nabz Group
+    company_url: 'https://www.nabzgroup.com/'
     company_logo: 
     location: Tehran
-    date_start: '2020-05-01'
-    date_end: ''
+    date_start: '2019-06-14'
+    date_end: 2019-09-18'
     description: |2-
-        * Sheet metal designing for industrial power switching supplier
-        * Laser cut design for PMMA (Plexiglass) panels
+        * Conduct research about Blood Pressure Measurement Devices
+        * Acoustic analysis of a stethoscope (Abaqus)
+        * Build & Design a small acoustic chamber
 
 
 
