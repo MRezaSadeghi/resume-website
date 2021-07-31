@@ -64,7 +64,7 @@ email: ""
 highlight_name: false
 ---
 
-My name is Reza Sadeghi, and I am a bachelor's student in Mechanical Engineering at Iran University of Science & Technology. I work as a freelancer as an R&D Engineer, and also, three years ago, I started working in NIGTS as a research assistant.
+My name is Reza Sadeghi, and I am a BSc in Mechanical Engineering at Iran University of Science & Technology. I work as a freelancer as an R&D Engineer, and also, three years ago, I started working in NIGTS as a research assistant.
 
 It has not been a long time since I worked on this web page, and It is not completed yet.
 
