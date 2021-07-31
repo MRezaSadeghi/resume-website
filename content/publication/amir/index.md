@@ -1,6 +1,6 @@
 ---
-title: Siavash Emami
-summary: A mechanical engineer who is interseted in Control Theory, Quadcopters and Vector Dynamics.
+title: Amir Mehdi Torabian
+summary: A mechanical engineer who is interested in Control Theory and Additive Manufacturing.
 
 date: ""
 
@@ -8,19 +8,19 @@ date: ""
 external_link: ""
 
 image:
-  caption: Photo by rawpixel on Unsplash
+  caption:
   focal_point: Smart
 
 links:
 - icon: telegram
   icon_pack: fab
   name: message
-  url: https://t.me/sia1999
+  url: https://t.me/AmirmahdiT77
 
 - icon: github
   icon_pack: fab
   name: follow
-  url: https://github.com/siavash1999
+  url: https://github.com/AMIRMADITORABIAN
 
 # Slides (optional).
 #   Associate this project with Markdown slides.
