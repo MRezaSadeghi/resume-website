@@ -28,7 +28,7 @@ experience:
     company_logo: org-gc
     location: Tehran
     date_start: '2019-09-01'
-    date_end: '2020-05-01'
+    date_end: ''
     description: |2-
         * Data analysis, turbine flow meters health monitoring
         * Designing a smart alarm system for TBS/DRS stations
@@ -45,6 +45,7 @@ experience:
         * Sheet metal designing for industrial power switching supplier
         * Laser cut design for PMMA (Plexiglass) panels
 
+  
 
 design:
   columns: '2'
