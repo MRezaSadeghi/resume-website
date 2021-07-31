@@ -63,7 +63,7 @@ experience:
       company_logo: org-x
       location: Parand industrial town
       date_start: '2018-06-03'
-      date_end: '2018-8-05'
+      date_end: '2018-08-05'
       description: |2-
           * Learning manufacturing processes
           * Design furniture models (Solidworks)
