@@ -12,10 +12,10 @@ image:
   focal_point: Smart
 
 links:
-- icon: email
+- icon: envelope
   icon_pack: fab
   name: Email
-  url: siaemam@gmail.com
+  url: mailto:siaemam@gmail.com
 
 - icon: github
   icon_pack: fab
