@@ -25,7 +25,7 @@ experience:
   - title: Research Assistant
     company: National Iranian Gas Transmission Company (NIGTC)
     company_url: ''
-    company_logo: iust-logo
+    company_logo: 
     location: Tehran
     date_start: '2019-09-01'
     date_end: ''
@@ -37,7 +37,7 @@ experience:
   - title: Part-time Mechanical Designer
     company: IPC Company
     company_url: 'http://ipcweld.com/'
-    company_logo: org-x
+    company_logo: 
     location: Tehran
     date_start: '2020-05-01'
     date_end: ''
