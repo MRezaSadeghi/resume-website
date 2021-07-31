@@ -1,6 +1,6 @@
 ---
-title: Monitor and control PMDC motor
-summary: A measurement device for controlling rotation speed of a viscometer and monitor its torque in real time for Ava Polymer Company.
+title: Body shape predictor
+summary: In this project, based on a domestic anthropometric datasets, a neural network has been trained to estimate body shape based on participants height and weight.
 
 tags:
 - industrial
@@ -10,7 +10,7 @@ date: "2020-07-03"
 external_link: ""
 
 image:
-  caption: 
+  caption:
   focal_point: Smart
 
 links:
@@ -19,10 +19,6 @@ links:
   name: Source Code
   url: https://github.com/MRezaSadegh
 
-- icon: website
-  icon_pack: fab
-  name: Ava polymer
-  url: http://avapolymer.ir/
 
 # Slides (optional).
 #   Associate this project with Markdown slides.
@@ -31,4 +27,4 @@ links:
 #   Otherwise, set `slides = ""`.
 ---
 
-In this project a measurement device designed for controlling rotation speed of a viscometer and monitor its torque in real time, ordered by Ava Polymer Company.
+In this project, based on a domestic anthropometric datasets, a neural network has been trained to estimate body shape based on participants height and weight.

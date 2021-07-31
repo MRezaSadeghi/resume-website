@@ -25,7 +25,7 @@ experience:
   - title: Research Assistant
     company: National Iranian Gas Transmission Company (NIGTC)
     company_url: ''
-    company_logo: 
+    company_logo:
     location: Tehran
     date_start: '2019-09-01'
     date_end: ''
@@ -37,7 +37,7 @@ experience:
   - title: Part-time Mechanical Designer
     company: IPC Company
     company_url: 'http://ipcweld.com/'
-    company_logo: 
+    company_logo:
     location: Tehran
     date_start: '2020-05-01'
     date_end: ''
@@ -49,7 +49,7 @@ experience:
   - title: Tutor & Teacher Assistant
     company: Iran University of Science and Technology (IUST)
     company_url: 'https://www.iust.ac.ir/'
-    company_logo: org-x
+    company_logo:
     location: Tehran
     date_start: '2018-10-01'
     date_end: '2020-10-01'
@@ -63,8 +63,8 @@ experience:
   - title: R&D Intern
     company: Nabz Group
     company_url: 'https://www.nabzgroup.com/'
-    company_logo: 
-    location: Tehran
+    company_logo:
+    location: Parand industrial town
     date_start: '2019-06-14'
     date_end: '2019-09-18'
     description: |2-
@@ -75,7 +75,7 @@ experience:
   - title: Design Intern
     company: Nilper Company
     company_url: 'https://www.nilper.com/'
-    company_logo: 
+    company_logo:
     location: Tehran
     date_start: '2020-05-01'
     date_end: '2018-08-05'
@@ -85,7 +85,7 @@ experience:
 
 
 
- 
+
 
 design:
   columns: '2'
