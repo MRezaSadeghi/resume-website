@@ -28,7 +28,7 @@ experience:
     company_logo: org-gc
     location: Tehran
     date_start: '2019-09-01'
-    date_end: ''
+    date_end: '2020-05-01'
     description: |2-
         * Data analysis, turbine flow meters health monitoring
         * Designing a smart alarm system for TBS/DRS stations
@@ -57,7 +57,29 @@ experience:
         * Acoustic analysis of a stethoscope (Abaqus)
         * Build & Design small acoustic chamber
 
+    - title: Design Intern
+      company: Nilper Company
+      company_url: 'https://www.nilper.com/'
+      company_logo: org-x
+      location: Parand industrial town
+      date_start: '2018-06-03'
+      date_end: '2018-8-05'
+      description: |2-
+          * Learning manufacturing processes
+          * Design furniture models (Solidworks)
 
+    - title: Tutor & Teacher Assistant
+      company: Iran University of Science and Technology (IUST)
+      company_url: 'https://www.iust.ac.ir/'
+      company_logo: org-x
+      location: Tehran
+      date_start: '2018-10-01'
+      date_end: '2020-10-01'
+      description: |2-
+          * Machine Dynamics & Vibration Lab Assistant
+          * Vector dynamics (TA)
+          * Mechanical vibration (TA)
+          * Holding MATLAB courses - Beginner & Advanced
 
 design:
   columns: '2'
