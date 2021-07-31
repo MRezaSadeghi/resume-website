@@ -13,7 +13,7 @@ image:
 
 links:
 - icon: envelope
-  icon_pack: fab
+  icon_pack: fas
   name: Email
   url: mailto:amtorabian@yahoo.com
 
