@@ -27,12 +27,10 @@ content:
   filter_button:
   - name: All
     tag: '*'
-  - name: My Research
-    tag: research-proj
-  - name: My side projects
-    tag: side-proj
-  - name: Collaborative
-    tag: collab
+  - name: Academic
+    tag: academic
+  - name: Industrial
+    tag: industrial
 
 design:
   # Choose how many columns the section has. Valid values: '1' or '2'.

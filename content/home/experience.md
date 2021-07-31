@@ -71,7 +71,7 @@ experience:
     - title: Tutor & Teacher Assistant
       company: Iran University of Science and Technology (IUST)
       company_url: 'https://www.iust.ac.ir/'
-      company_logo: iust-logo
+      company_logo: org-x
       location: Tehran
       date_start: '2018-10-01'
       date_end: ''
