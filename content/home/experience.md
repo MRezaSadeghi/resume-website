@@ -45,17 +45,7 @@ experience:
         * Sheet metal designing for industrial power switching supplier
         * Laser cut design for PMMA (Plexiglass) panels
 
-- title: R&D Intern
-    company: Nabz Group
-    company_url: 'https://www.nabzgroup.com/'
-    company_logo: org-x
-    location: Tehran
-    date_start: '2019-06-14'
-    date_end: '2019-09-18'
-    description: |2-
-        * Conduct research about Blood Pressure Measurement Devices
-        * Acoustic analysis of a stethoscope (Abaqus)
-        * Build & Design a small acoustic chamber
+
 
  
 
