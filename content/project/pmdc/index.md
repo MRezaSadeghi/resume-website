@@ -10,7 +10,7 @@ date: "2020-07-03"
 external_link: ""
 
 image:
-  caption: 
+  caption:
   focal_point: Smart
 
 links:
@@ -19,7 +19,7 @@ links:
   name: Source Code
   url: https://github.com/MRezaSadegh
 
-- icon: website
+- icon: battle-net
   icon_pack: fab
   name: Ava polymer
   url: http://avapolymer.ir/

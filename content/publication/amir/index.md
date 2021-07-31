@@ -12,10 +12,10 @@ image:
   focal_point: Smart
 
 links:
-- icon: telegram
+- icon: email
   icon_pack: fab
-  name: message
-  url: https://t.me/AmirmahdiT77
+  name: Email
+  url: amtorabian@yahoo.com
 
 - icon: github
   icon_pack: fab

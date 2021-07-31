@@ -12,14 +12,14 @@ image:
   focal_point: Smart
 
 links:
-- icon: telegram
+- icon: email
   icon_pack: fab
-  name: message
-  url: https://t.me/sia1999
+  name: Email
+  url: siaemam@gmail.com
 
 - icon: github
   icon_pack: fab
-  name: follow
+  name: Follow
   url: https://github.com/siavash1999
 
 # Slides (optional).
