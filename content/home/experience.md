@@ -57,6 +57,17 @@ experience:
         * Acoustic analysis of a stethoscope (Abaqus)
         * Build & Design a small acoustic chamber
 
+  - title: Design Intern
+    company: Nilper Company
+    company_url: 'https://www.nilper.com/'
+    company_logo: 
+    location: Tehran
+    date_start: '2020-05-01'
+    date_end: '2018-08-05'
+    description: |2-
+        * Learning manufacturing processes
+        * Design furniture models (Solidworks)
+
 
 
  
