@@ -51,7 +51,7 @@ experience:
     company_logo: 
     location: Tehran
     date_start: '2019-06-14'
-    date_end: 2019-09-18'
+    date_end: '2019-09-18'
     description: |2-
         * Conduct research about Blood Pressure Measurement Devices
         * Acoustic analysis of a stethoscope (Abaqus)
