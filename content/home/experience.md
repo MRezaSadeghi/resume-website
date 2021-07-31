@@ -45,10 +45,21 @@ experience:
         * Sheet metal designing for industrial power switching supplier
         * Laser cut design for PMMA (Plexiglass) panels
 
+  - title: Part-time Mechanical Designer 2
+    company: IPC Company
+    company_url: 'http://ipcweld.com/'
+    company_logo: 
+    location: Tehran
+    date_start: '2020-05-01'
+    date_end: ''
+    description: |2-
+        * Sheet metal designing for industrial power switching supplier
+        * Laser cut design for PMMA (Plexiglass) panels
+
 
 
  
 
 design:
-  columns: '3'
+  columns: '2'
 ---
