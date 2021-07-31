@@ -45,6 +45,21 @@ experience:
         * Sheet metal designing for industrial power switching supplier
         * Laser cut design for PMMA (Plexiglass) panels
 
+
+  - title: Tutor & Teacher Assistant
+    company: Iran University of Science and Technology (IUST)
+    company_url: 'https://www.iust.ac.ir/'
+    company_logo: org-x
+    location: Tehran
+    date_start: '2018-10-01'
+    date_end: '2020-10-01'
+    description: |2-
+        * Machine Dynamics & Vibration Lab Assistant
+        * Vector dynamics (TA)
+        * Mechanical vibration (TA)
+        * Holding MATLAB courses - Beginner & Advanced
+
+
   - title: R&D Intern
     company: Nabz Group
     company_url: 'https://www.nabzgroup.com/'
