@@ -3,8 +3,8 @@ title: Body shape predictor
 summary: In this project, based on a domestic anthropometric datasets, a neural network has been trained to estimate body shape based on participants height and weight.
 
 tags:
-- industrial
-date: "2020-07-03"
+- ai
+date: "2020-06-01"
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""
