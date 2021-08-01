@@ -66,6 +66,6 @@ highlight_name: false
 
 My name is Reza Sadeghi, and I am a BSc student in Mechanical Engineering at Iran University of Science & Technology (IUST). I work as a freelancer engineer. Also since three years ago, I have worked at NIGTS as a research assistant.
 
-It has not been a long time that since I started working on this web page. So, it is not completed yet.
+It has not been a long time that since I started working on this web page. So, it is not completed yet and more details will be added soon :)
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/resume.pdf" "newtab" >}}resume{{< /staticref >}}.
