@@ -22,17 +22,16 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  - title: Research Assistant
-    company: National Iranian Gas Transmission Company (NIGTC)
-    company_url: ''
+  - title: Mechanical Designer
+    company: ISENSE
+    company_url: 'http://isenseco.com/'
     company_logo:
     location: Tehran
     date_start: '2019-09-01'
     date_end: ''
     description: |2-
-        * Data analysis, turbine flow meters health monitoring
-        * Designing a smart alarm system for TBS/DRS stations
-        * Diagnosis of flow meters using artificial intelligence (AI)
+        * Vibration Analysis
+        * Metal Enclosure Design
 
   - title: Research Assistant
     company: National Iranian Gas Transmission Company (NIGTC)
