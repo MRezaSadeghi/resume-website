@@ -27,7 +27,7 @@ experience:
     company_url: 'http://isenseco.com/'
     company_logo:
     location: Tehran
-    date_start: '2021-08-015'
+    date_start: '2021-08-15'
     date_end: ''
     description: |2-
         * Vibration Analysis
