@@ -34,13 +34,25 @@ experience:
         * Designing a smart alarm system for TBS/DRS stations
         * Diagnosis of flow meters using artificial intelligence (AI)
 
+  - title: Research Assistant
+    company: National Iranian Gas Transmission Company (NIGTC)
+    company_url: ''
+    company_logo:
+    location: Tehran
+    date_start: '2019-09-01'
+    date_end: ''
+    description: |2-
+        * Data analysis, turbine flow meters health monitoring
+        * Designing a smart alarm system for TBS/DRS stations
+        * Diagnosis of flow meters using artificial intelligence (AI)
+
   - title: Part-time Mechanical Designer
     company: IPC Company
     company_url: 'http://ipcweld.com/'
     company_logo:
     location: Tehran
     date_start: '2020-05-01'
-    date_end: ''
+    date_end: '2021-07-01'
     description: |2-
         * Sheet metal designing for industrial power switching supplier
         * Laser cut design for PMMA (Plexiglass) panels
