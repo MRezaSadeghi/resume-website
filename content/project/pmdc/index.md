@@ -1,6 +1,6 @@
 ---
-title: Monitor and control PMDC motor
-summary: A measurement device for controlling rotation speed of a viscometer and monitor its torque in real time for Ava Polymer Company.
+title: Laboratory Reactor
+summary: A measurement device for controlling rotation speed of a laboratory reactor and monitor its torque in real time for Ava Polymer Company.
 
 tags:
 - industrial
@@ -32,3 +32,5 @@ links:
 ---
 
 In this project a measurement device designed for controlling rotation speed of a viscometer and monitor its torque in real time, ordered by Ava Polymer Company.
+
+<p align="center"><a><img src="https://www.lambertmech.ir/project/pmdc/pmcd-setup.png" alt="Laboratory Reactor AP12"></a></p>
