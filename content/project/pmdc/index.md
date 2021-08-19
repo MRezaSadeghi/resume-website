@@ -14,10 +14,6 @@ image:
   focal_point: Smart
 
 links:
-- icon: github
-  icon_pack: fab
-  name: Source Code
-  url: https://github.com/MRezaSadegh
 
 - icon: battle-net
   icon_pack: fab
