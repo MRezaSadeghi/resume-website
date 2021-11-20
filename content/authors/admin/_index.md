@@ -30,7 +30,7 @@ education:
     institution: Sharif University of Technology (SUT)
     year: 2021
   - course: BSc in Mechanical Engineering
-    institution: Iran University of Science & Technology
+    institution: Iran University of Science & Technology (IUST)
     year: 2017
 
 # Social/Academic Networking

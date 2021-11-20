@@ -28,8 +28,8 @@ content:
     tag: '*'
   - name: Academic
     tag: academic
-  - name: Industrial
-    tag: industrial
+  - name: Math
+    tag: math
   - name: AI
     tag: ai
 
