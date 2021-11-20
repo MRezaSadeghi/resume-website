@@ -1,20 +1,20 @@
 ---
 # An instance of the Pages widget.
 # Documentation: https://wowchemy.com/docs/page-builder/
-widget: pages
+widget: portfolio
 
 # This file represents a page section.
 headless: true
 
 # Order that this section appears on the page.
-weight: 75
+weight: 100
 
 title: Recent Posts
 subtitle: These posts include some information for research and development. I try to keep them updated.
 
 content:
   # Page type to display. E.g. post, talk, publication...
-  page_type: post
+  page_type: post0
   # Choose how many pages you would like to display (0 = all pages)
   count: 5
   # Filter on criteria
