@@ -29,7 +29,6 @@ education:
   - course: MSc in Mechanical Engineering
     institution: Sharif University of Technology (SUT)
     year: 2021
-  courses:
   - course: BSc in Mechanical Engineering
     institution: Iran University of Science & Technology
     year: 2017
@@ -69,8 +68,8 @@ email: ""
 highlight_name: false
 ---
 
-I'm M. Reza Sadeghi, A mechanical engineer. Lambert Mech's website is a way to spread out those projects that I lead and projects I involve. As an engineer interested in Monitoring, Dynamics & AI, I always have tried to engage in industrial projects, learn and do my best in these fields.
+I'm M. Reza Sadeghi, A mechanical engineer. Lambert Mech's website is a way to spread out those projects that I lead and involve projects. As an engineer interested in Monitoring, Dynamics & AI, I always have tried to engage in industrial projects, learn and do my best in these fields.
 
-It has not been a long time that since I started working on this website. So, it doesn't include enough details I'am going to add more information soon.
+It has not been a long time that since I started working on this website. So, it doesn't include enough details. I'm going to add more information soon.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/resume.pdf" "newtab" >}}resume{{< /staticref >}}.
