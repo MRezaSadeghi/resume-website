@@ -10,24 +10,29 @@ role: Mechanical Engineer
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: Iran University of Science & Technology
-  url: http://mech.iust.ac.ir/index.php?sid=16&slc_lang=en
+- name: Sharif University of Technology (SUT)
+  url: https://en.sharif.edu/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed Condition Monitoring, Control and Artificial Intelligence.
+bio: Lambert Mech is not just a resume website. It is an approach to state our achievements and spread our ideas. Reza Sadeghi
 
 # Interests to show in About widget
 interests:
+- Digital Twin
 - Prognostics & Health Management (PHM)
-- Control & Mechatronics
-- Machine Learning
+- Dynamics and Vibration
+- Applied Machine Learning
 
 # Education to show in About widget
 education:
   courses:
+  - course: MSc in Mechanical Engineering
+    institution: Sharif University of Technology (SUT)
+    year: 2021
+  courses:
   - course: BSc in Mechanical Engineering
     institution: Iran University of Science & Technology
-    year: 2021
+    year: 2017
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
@@ -48,7 +53,7 @@ social:
   link: https://linkedin.com/mrezasadeghi
 - icon: telegram
   icon_pack: fab
-  link: https://t.me/mrezasadeghi1
+  link: https://t.me/mrezasadeghi
 
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.toml`,
@@ -64,8 +69,8 @@ email: ""
 highlight_name: false
 ---
 
-My name is Reza Sadeghi, and I am a BSc student in Mechanical Engineering at Iran University of Science & Technology (IUST). I work as a freelancer engineer. Also since three years ago, I have worked at NIGTS as a research assistant.
+I'm M. Reza Sadeghi, A mechanical engineer. Lambert Mech's website is a way to spread out those projects that I lead and projects I involve. As an engineer interested in Monitoring, Dynamics & AI, I always have tried to engage in industrial projects, learn and do my best in these fields.
 
-It has not been a long time that since I started working on this web page. So, it is not completed yet and more details will be added soon :)
+It has not been a long time that since I started working on this website. So, it doesn't include enough details I'am going to add more information soon.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/resume.pdf" "newtab" >}}resume{{< /staticref >}}.
