@@ -26,8 +26,8 @@ interests:
 # Education to show in About widget
 education:
   courses:
-  - course: MSc in Mechanical Engineering
-    institution: Sharif University of Technology (SUT)
+  - course: MSc in Energy Engineering
+    institution: Polytechnic University of Milan (Polimi)
     year: 2021
   - course: BSc in Mechanical Engineering
     institution: Iran University of Science & Technology (IUST)
