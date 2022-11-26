@@ -18,7 +18,7 @@ bio: Lambert Mech is not just a resume website. It is an approach to state our a
 
 # Interests to show in About widget
 interests:
-- Digital Twin
+- Digital Twins
 - Prognostics & Health Management (PHM)
 - Dynamics and Vibration
 - Applied Machine Learning
