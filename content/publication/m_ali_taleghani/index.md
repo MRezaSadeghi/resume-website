@@ -1,6 +1,6 @@
 ---
-title: Amir Mehdi Torabian
-summary: A mechanical engineer who is interested in Control Theory and Additive Manufacturing.
+title: M. Ali Taleghani
+summary: A Polymer engineer, CEO of Beta Resin.
 
 date: ""
 
@@ -12,15 +12,11 @@ image:
   focal_point: Smart
 
 links:
-- icon: envelope
-  icon_pack: fas
-  name: Email
-  url: mailto:amtorabian@yahoo.com
-
-- icon: github
+- icon: linkedin
   icon_pack: fab
-  name: follow
-  url: https://github.com/AMIRMADITORABIAN
+  name: Email
+  url: https://www.linkedin.com/in/mohammad-ali-taleghani-esfahani-40a313184/
+
 
 # Slides (optional).
 #   Associate this project with Markdown slides.
