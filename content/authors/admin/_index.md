@@ -10,8 +10,8 @@ role: Mechanical Engineer
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: Sharif University of Technology (SUT)
-  url: https://en.sharif.edu/
+- name: Polytechnic University of Milan (Polimi)
+  url: https://www.polimi.it//
 
 # Short bio (displayed in user profile at end of posts)
 bio: Lambert Mech is not just a resume website. It is an approach to state our achievements and spread our ideas. Reza Sadeghi
@@ -21,14 +21,14 @@ interests:
 - Digital Twins
 - Prognostics & Health Management (PHM)
 - Dynamics and Vibration
-- Applied Machine Learning
+- Measurement Systems
 
 # Education to show in About widget
 education:
   courses:
   - course: MSc in Energy Engineering
     institution: Polytechnic University of Milan (Polimi)
-    year: 2021
+    year: 2022
   - course: BSc in Mechanical Engineering
     institution: Iran University of Science & Technology (IUST)
     year: 2017
@@ -41,9 +41,6 @@ social:
 - icon: envelope
   icon_pack: fas
   link: '/#contact'
-- icon: twitter
-  icon_pack: fab
-  link: https://twitter.com/RezaMandelbrot
 - icon: github
   icon_pack: fab
   link: https://github.com/mrezasadeghi
@@ -68,7 +65,7 @@ email: ""
 highlight_name: false
 ---
 
-I'm M. Reza Sadeghi, A mechanical engineer. Lambert Mech's website is a way to spread out those projects that I lead and involve projects. As an engineer interested in Monitoring, Dynamics & AI, I always have tried to engage in industrial projects, learn and do my best in these fields.
+I'm M. Reza Sadeghi, A mechanical engineer. I'm currently a master student at the Polytechnic University of Milan (Polimi). Lambert Mech's website is a way to spread out those projects that I lead and involve projects. As an engineer interested in Monitoring, Dynamics & AI, I always have tried to engage in industrial projects, learn and do my best in these fields.
 
 It has not been a long time that since I started working on this website. So, it doesn't include enough details. I'm going to add more information soon.
 
