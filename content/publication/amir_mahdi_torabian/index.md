@@ -15,7 +15,7 @@ links:
 - icon: linkedin
   icon_pack: fab
   name: LinkedIn
-  url: https://www.linkedin.com/in/mohammad-ali-taleghani-esfahani-40a313184/
+  url: https://www.linkedin.com/in/amirmahdi-torabian/
 
 
 # Slides (optional).
