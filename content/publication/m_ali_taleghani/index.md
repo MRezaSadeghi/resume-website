@@ -14,7 +14,7 @@ image:
 links:
 - icon: linkedin
   icon_pack: fab
-  name: Email
+  name: LinkedIn
   url: https://www.linkedin.com/in/mohammad-ali-taleghani-esfahani-40a313184/
 
 
