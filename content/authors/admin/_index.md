@@ -14,7 +14,7 @@ organizations:
   url: https://www.polimi.it//
 
 # Short bio (displayed in user profile at end of posts)
-bio: Lambert Mech is not just a resume website. It is an approach to state our achievements and spread our ideas. Reza Sadeghi
+bio: Hi! :wave:
 
 # Interests to show in About widget
 interests:
@@ -50,7 +50,7 @@ social:
 - icon: telegram
   icon_pack: fab
   link: https://t.me/mrezasadeghi
-- icon: yourube
+- icon: youtube
   icon_pack: fab
   link: https://www.youtube.com/channel/UC8aeJl0Hsgzhl8LUQa4jFNw
 # Link to a PDF of your resume/CV.
@@ -67,7 +67,7 @@ email: ""
 highlight_name: false
 ---
 
-I am M. Reza Sadeghi, A mechanical engineer. I am currently a master student in energy engineering at the Polytechnic University of Milan. My research journey started with Optimization algorithms and Condition monitoring, and now, my research activity is focused on Digital Twins and Risk Analysis. As an engineer, I worked at ISENSE health monitoring and IPC company. Also led and was involved in some industrial projects such as TMSC and TFM monitoring.
+I am Reza Sadeghi, A mechanical engineer. I am currently a master student in energy engineering at the Polytechnic University of Milan. My research journey started with Optimization algorithms and Condition monitoring, and now, my research activity is focused on Digital Twins and Risk Analysis. As an engineer, I worked at ISENSE health monitoring and IPC company. Also led and was involved in some industrial projects such as TMSC and TFM monitoring.
 
 This webpage, Lambert Mech, is a way to share my experiences and describe some exciting topics. It has been a short time since I started working on this website. So, it needs to include more details, and I always try to find some free time to fill it :).
 

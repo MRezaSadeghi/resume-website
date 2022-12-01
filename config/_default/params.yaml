@@ -22,10 +22,10 @@ twitter: ''
 
 email: sadeghimohammadreza77@gmail.com
 contact_links:
-  - icon: twitter
-    icon_pack: fab
-    name: twitter
-    link: 'https://twitter.com/RezaMandelbrot'
+  - icon:
+    icon_pack:
+    name:
+    link: 
 
 
 # Site header
