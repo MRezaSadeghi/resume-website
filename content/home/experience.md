@@ -22,81 +22,41 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  - title: Mechanical Designer
+  - title: Mechanical Designer | R&D Engineer
     company: ISENSE
     company_url: 'http://isenseco.com/'
     company_logo:
     location: Tehran
     date_start: '2021-08-15'
-    date_end: '2022-09-15'
+    date_end: '2022-08-15'
     description: |2-
-        * Vibration Analysis
-        * Metal Enclosure Design
+        * Vibration analysis: signal processing and research on mechanical joints looseness and accelerometers accuracy
+        * Designed & built crack meter calibration setup with nearly 10-micrometer accuracy.
+        * Designed, analyzed, and manufactured data loggers enclosures
 
-  - title: Research Assistant
-    company: National Iranian Gas Transmission Company (NIGTC)
-    company_url: ''
-    company_logo:
-    location: Tehran
-    date_start: '2019-09-01'
-    date_end: ''
-    description: |2-
-        * Data analysis, turbine flow meters health monitoring
-        * Designing a smart alarm system for TBS/DRS stations
-        * Diagnosis of flow meters using artificial intelligence (AI)
-
-  - title: Part-time Mechanical Designer
+  - title: Mechanical Designer
     company: IPC Company
     company_url: 'http://ipcweld.com/'
     company_logo:
     location: Tehran
-    date_start: '2020-05-01'
-    date_end: '2021-07-01'
+    date_start: '2019-10-01'
+    date_end: '2021-03-01'
     description: |2-
-        * Sheet metal designing for industrial power switching supplier
-        * Laser cut design for PMMA (Plexiglass) panels
-
-
-  - title: Tutor & Teacher Assistant
-    company: Iran University of Science and Technology (IUST)
-    company_url: 'https://www.iust.ac.ir/'
-    company_logo:
-    location: Tehran
-    date_start: '2018-10-01'
-    date_end: '2020-10-01'
-    description: |2-
-        * Machine Dynamics & Vibration Lab Assistant
-        * Vector dynamics (TA)
-        * Mechanical vibration (TA)
-        * Holding MATLAB courses - Beginner & Advanced
-
+        * Designed PMMA structures (mostly laser-cut)
+        * Designed rectifier metal enclosures
+        * Developed a laboratory pressure mat
 
   - title: R&D Intern
     company: Nabz Group
     company_url: 'https://www.nabzgroup.com/'
     company_logo:
-    location: Parand industrial town
-    date_start: '2019-06-14'
+    location: Tehran
+    date_start: '2019-04-14'
     date_end: '2019-09-18'
     description: |2-
-        * Conduct research about Blood Pressure Measurement Devices
-        * Acoustic analysis of a stethoscope (Abaqus)
-        * Build & Design a small acoustic chamber
-
-  - title: Design Intern
-    company: Nilper Company
-    company_url: 'https://www.nilper.com/'
-    company_logo:
-    location: Tehran
-    date_start: '2020-05-01'
-    date_end: '2018-08-05'
-    description: |2-
-        * Learning manufacturing processes
-        * Design furniture models (Solidworks)
-
-
-
-
+        * Designed and manufactured an acoustic chamber
+        * Analyzed the stethoscope acoustic structure in Abaqus
+        * Practiced signal & systems and signal processing
 
 design:
   columns: '2'
