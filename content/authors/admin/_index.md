@@ -67,8 +67,8 @@ email: ""
 highlight_name: false
 ---
 
-I'm M. Reza Sadeghi, A mechanical engineer. I'm currently a master student at the Polytechnic University of Milan (Polimi). Lambert Mech's website is a way to spread out those projects that I lead and involve projects. As an engineer interested in Monitoring, Dynamics & AI, I always have tried to engage in industrial projects, learn and do my best in these fields.
+I am M. Reza Sadeghi, A mechanical engineer. I am currently a master student in energy engineering at the Polytechnic University of Milan. My research journey started with Optimization algorithms and Condition monitoring, and now, my research activity is focused on Digital Twins and Risk Analysis. As an engineer, I worked at ISENSE health monitoring and IPC company. Also led and was involved in some industrial projects such as TMSC and TFM monitoring.
 
-It has not been a long time that since I started working on this website. So, it doesn't include enough details. I'm going to add more information soon.
+This webpage, Lambert Mech, is a way to share my experiences and describe some exciting topics. It has been a short time since I started working on this website. So, it needs to include more details, and I always try to find some free time to fill it :).
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/resume.pdf" "newtab" >}}resume{{< /staticref >}}.
