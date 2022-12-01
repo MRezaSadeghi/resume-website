@@ -14,7 +14,7 @@ organizations:
   url: https://www.polimi.it//
 
 # Short bio (displayed in user profile at end of posts)
-bio: Hi! :wave:
+bio: Hi!
 
 # Interests to show in About widget
 interests:
