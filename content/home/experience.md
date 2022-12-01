@@ -28,7 +28,7 @@ experience:
     company_logo:
     location: Tehran
     date_start: '2021-08-15'
-    date_end: ''
+    date_end: '2022-09-15'
     description: |2-
         * Vibration Analysis
         * Metal Enclosure Design
