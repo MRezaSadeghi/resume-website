@@ -31,7 +31,7 @@ education:
     year: 2022
   - course: BSc in Mechanical Engineering
     institution: Iran University of Science & Technology (IUST)
-    year: 2017
+    year: 2017-2021
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
@@ -50,7 +50,9 @@ social:
 - icon: telegram
   icon_pack: fab
   link: https://t.me/mrezasadeghi
-
+- icon: yourube
+  icon_pack: fab
+  link: https://www.youtube.com/channel/UC8aeJl0Hsgzhl8LUQa4jFNw
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.toml`,
 # and uncomment the lines below.
