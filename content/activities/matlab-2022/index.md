@@ -1,43 +1,31 @@
 ---
-title: post 1 - test
-subtitle: Welcome
+title: MATLAB Competition (2022)
+subtitle: SSME held the second MATLAB Competition
 
 # Summary for listings and search engines
-summary: Welcome
+summary:
 
 tags:
-- math
+- academic
 
 # Link this post with a project
 projects: []
 
 # Date published
-date: "2020-12-13T00:00:00Z"
+date: "2020-05-14"
 
 # Date updated
-lastmod: "2020-12-13T00:00:00Z"
+external_link: ""
 
-# Is this an unpublished draft?
-draft: false
-
-# Show this page in the Featured widget?
-featured: false
-
-# Featured image
-# Place an image named `featured.jpg/png` in this page's folder and customize its options here.
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/CpkOjOcXdUY)'
-  focal_point: ""
-  placement: 2
-  preview_only: false
+  caption:
+  focal_point: Smart
 
-authors:
-- admin
+links:
 
+- icon: battle-net
+  icon_pack: fab
+  name: Telegram Channel
+  url: https://t.me/matlab_ssme
 
-categories:
-- Demo
-
----
-
-## Overview
+Content

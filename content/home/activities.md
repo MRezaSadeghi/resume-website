@@ -31,8 +31,6 @@ content:
     tag: academic
   - name: Industrial
     tag: industrial
-  - name: AI
-    tag: ai
 
 
 design:
