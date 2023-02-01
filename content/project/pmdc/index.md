@@ -1,6 +1,6 @@
 ---
-title: Laboratory Reactor
-summary: A measurement device for controlling rotation speed of a laboratory reactor and monitor its torque in real time for Ava Polymer Company.
+title: TMSC Reactor System
+summary: A measurement device for controlling rotation speed of a laboratory reactor and monitor its torque in real time.
 
 tags:
 - industrial
@@ -62,4 +62,4 @@ The previous version of the current TMCS was TMCS P10 which has lower efficiency
 
 <p align="center"><a><img src="https://www.lambertmech.ir/project/pmdc/TMSC-P10-Label.jpg" alt="TMSC P10" height="300" ></a></p>
 
-<p align="center"><a><img src="https://www.lambertmech.ir/project/pmdc/TMSC-P21-Label.jpg" alt="TMSC P21" style=“width:10%;” ></a></p>
+<p align="center"><a><img src="https://www.lambertmech.ir/project/pmdc/TMSC-P21-Label.jpg" alt="TMSC P21" style="width:10%;" ></a></p>
