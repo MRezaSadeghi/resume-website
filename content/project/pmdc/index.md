@@ -30,7 +30,7 @@ links:
 # TMSC Reactor System
 A significant number of chemical reactions, besides a reactor, require a measurement system to allow the technicians to be aware of reaction parameters. TMSC Reactor is a device to do both stirring and monitoring. This device is able to stir the batch with various shafts and impellers at the desired speed and also it is able to monitor an index of the implied torque from the composition inside the batch. Various parts of this device will discuss in the following sections.  It is worth mentioning that similar industrial assets (without the software) cost more than 1100$ and our device is a low-budget solution for about half of the conventional assets price.
 
-<p align="center"><a><img src="https://www.lambertmech.ir/project/pmdc/TMSC-P21.jpg" alt="TMSC P21" height="300" ></a></p>
+<p align="center"><a><img src="https://www.lambertmech.ir/project/pmdc/TMSC-P21.jpg" alt="TMSC P21" style="width:70%;" ></a></p>
 
 ## Properties
 - Speed: 30-500 rpm
@@ -49,7 +49,7 @@ The provided chunk at the end of the motor makes the device customizable enough 
 ### Motor
 The motor of the TMCS reactor system is a 24v DC motor which is driven and controlled by the power box and software. Due to the great importance of the resonance of the structure has passed various vibrational analyses in addition to dynamic and static tests. The current motor stall current is not more than 8A, but the power box can provide power for bigger motors (24V DC).
 
-<p align="center"><a><img src="https://www.lambertmech.ir/project/pmdc/vibratoin-analysis.jpg" alt="Vibration Analysis" height="300" ></a></p>
+<p align="center"><a><img src="https://www.lambertmech.ir/project/pmdc/vibratoin-analysis.jpg" alt="Vibration Analysis" style="width:70%;" ></a></p>
 
 ### Power & driver box
 This box is the heart of the system and allows the user to control the device with or without software. This box directly connects to a 220V power supplier and contains additional components to keep the device and user safe. Also for other lab applications, this box can be used as a 5V and 3A (max) power supplier. Moreover, when the computer is not connected user can set a specific rotational speed and by using the PID algorithm the speed will be fixed even if the composition's viscosity changes.
@@ -60,6 +60,6 @@ The TMCS software has various applications. The most significant application of 
 ## Previous version
 The previous version of the current TMCS was TMCS P10 which has lower efficiency and is not able to connect to the computer. The maximum rotational speed and torque of TMSC P10 are 300 rpm and 1.5 kg-cm respectively. The picture below indicates both devices (TMCS P21 and P10).
 
-<p align="center"><a><img src="https://www.lambertmech.ir/project/pmdc/TMSC-P10-Label.jpg" alt="TMSC P10" height="300" ></a></p>
+<p align="center"><a><img src="https://www.lambertmech.ir/project/pmdc/TMSC-P10-Label.jpg" alt="TMSC P10" style="width:60%;" ></a></p>
 
-<p align="center"><a><img src="https://www.lambertmech.ir/project/pmdc/TMSC-P21-Label.jpg" alt="TMSC P21" style="width:10%;" ></a></p>
+<p align="center"><a><img src="https://www.lambertmech.ir/project/pmdc/TMSC-P21-Label.jpg" alt="TMSC P21" style="width:70%;" ></a></p>
