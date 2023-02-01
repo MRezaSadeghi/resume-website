@@ -62,4 +62,4 @@ The previous version of the current TMCS was TMCS P10 which has lower efficiency
 
 <p align="center"><a><img src="https://www.lambertmech.ir/project/pmdc/TMSC-P10-Label.jpg" alt="TMSC P10" height="300" ></a></p>
 
-<p align="center"><a><img src="https://www.lambertmech.ir/project/pmdc/TMSC-P21-Label.jpg" alt="TMSC P21" height="300" ></a></p>
+<p align="center"><a><img src="https://www.lambertmech.ir/project/pmdc/TMSC-P21-Label.jpg" alt="TMSC P21" style=“width:10%;” ></a></p>
