@@ -1,5 +1,5 @@
 ---
-title: MATLAB Competition (2022)
+title: MATLAB Competition 2022
 subtitle: SSME held the second MATLAB Competition
 
 # Summary for listings and search engines
@@ -27,6 +27,6 @@ links:
   icon_pack: fab
   name: Telegram Channel
   url: https://t.me/matlab_ssme
-  
+
 ---
 Content

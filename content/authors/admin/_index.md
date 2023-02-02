@@ -22,6 +22,7 @@ interests:
 - Prognostics & Health Management (PHM)
 - Dynamics and Vibration
 - Measurement Systems
+- Risk and Reliability
 
 # Education to show in About widget
 education:
