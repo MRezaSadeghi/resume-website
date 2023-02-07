@@ -17,8 +17,8 @@ links:
 
 - icon: battle-net
   icon_pack: fab
-  name: Ava polymer
-  url: http://avapolymer.ir/
+  name: Baspar Taban Arya
+  url: http://lambertmech.ir/
 
 # Slides (optional).
 #   Associate this project with Markdown slides.

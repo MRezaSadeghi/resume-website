@@ -17,7 +17,10 @@ links:
   name: LinkedIn
   url: https://www.linkedin.com/in/amirmahdi-torabian/
 
-
+- icon: globe
+  icon_pack: fab
+  name: Webpage
+  url: https://scope3d.ir/
 # Slides (optional).
 #   Associate this project with Markdown slides.
 #   Simply enter your slide deck's filename without extension.
