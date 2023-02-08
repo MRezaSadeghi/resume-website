@@ -7,7 +7,7 @@ widget: accomplishments
 headless: true
 
 # Order that this section appears on the page.
-weight: 125
+weight: 70
 
 # Note: `&shy;` is used to add a 'soft' hyphen in a long heading.
 title: 'Certificates'
@@ -23,11 +23,17 @@ date_format: Jan 2006
 #   Leave other parameters empty if not required.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 item:
-  - title: Task-Oriented Course in Fundamentals of Python Programming and Algorithmic Thinking
-    date_start: '2020-03-01'
-    organization: Quera College
-    organization_url: https://www.quera.org/
-    certificate_url: "uploads/quera_beginner_python.jpg"
+  - title: Bayesian Signal and Image Processing
+    date_start: '2020-02-17'
+    organization: ISAV
+    organization_url: https://isav.ir/en
+    certificate_url: "Certificates/ISAV%20-%20Bayesian.png"
+
+  - title: Rotor Dynamics
+    date_start: '2022-08-15'
+    organization: Parsi Tek
+    organization_url: https://parsitek.com/
+    certificate_url: ""
 
 design:
   columns: '2'

@@ -7,7 +7,7 @@ widget: portfolio
 headless: true
 
 # Order that this section appears on the page.
-weight: 100
+weight: 90
 
 title: Recent Posts
 subtitle: These posts include some information for research and development. I try to keep them updated.
