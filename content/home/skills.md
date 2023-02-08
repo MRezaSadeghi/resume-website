@@ -26,11 +26,6 @@ feature:
     icon_pack: custom
     name: Python
 
-  - description: "Familiar"
-    icon: git_icon
-    icon_pack: custom
-    name: Git
-
   - description: "Moderately Familiar"
     icon: adams_icon
     icon_pack: custom
