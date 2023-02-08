@@ -29,7 +29,7 @@ feature:
   - description: "Moderately Familiar"
     icon: adams_logo
     icon_pack: custom
-    name: ADAMS
+    name: MCS ADAMS
 
   - description: "Moderately Familiar"
     icon: comsol_logo
