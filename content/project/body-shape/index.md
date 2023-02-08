@@ -4,6 +4,7 @@ summary: In this project, based on a domestic anthropometric datasets, a neural 
 
 tags:
 - ai
+- academic
 date: "2020-06-01"
 
 # Optional external URL for project (replaces project detail page).

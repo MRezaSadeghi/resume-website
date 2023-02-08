@@ -22,7 +22,7 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  - title: Mechanical Designer | R&D Engineer
+  - title: R&D Mechanical Engineer
     company: ISENSE
     company_url: 'http://isenseco.com/'
     company_logo:
@@ -31,8 +31,8 @@ experience:
     date_end: '2022-08-15'
     description: |2-
         * Vibration analysis: signal processing and research on mechanical joints looseness and accelerometers accuracy
-        * Designed & built crack meter calibration setup with nearly 10-micrometer accuracy.
-        * Designed, analyzed, and manufactured data loggers enclosures
+        * Vibration analysis: signal processing and research on mechanical joints looseness
+        * Designed, analyzed, and manufactured temperature and strain data loggers enclosures
 
   - title: Mechanical Designer
     company: IPC Company
@@ -42,12 +42,24 @@ experience:
     date_start: '2019-10-01'
     date_end: '2021-03-01'
     description: |2-
-        * Designed PMMA structures (mostly laser-cut)
+        * Develop a laboratory pressure mat using FSR and its interactive software for movement monitoring (using PyQt and Arduino)
         * Designed rectifier metal enclosures
-        * Developed a laboratory pressure mat
+        * Designed PMMA structures and enclosures for switching rectifiers
 
-  - title: R&D Intern
-    company: Nabz Group
+  - title: Dynamics and Vibration Teaching Assistant
+    company: IUST
+    company_url: 'http://mech.iust.ac.ir/'
+    company_logo:
+    location: Tehran
+    date_start: '2020-02-01'
+    date_end: '2021-04-01'
+    description: |2-
+        * TA of mechanical vibration and vector dynamics
+        * Tutor of MATLAB for three semesters
+        * Head of MATLAB competition instructors for two competitions (SSME)
+
+  - title: R&D Mechanical Intern
+    company: Nabz
     company_url: 'https://www.nabzgroup.com/'
     company_logo:
     location: Tehran
@@ -56,7 +68,17 @@ experience:
     description: |2-
         * Designed and manufactured an acoustic chamber
         * Analyzed the stethoscope acoustic structure in Abaqus
-        * Practiced signal & systems and signal processing
+        * Researched signal & systems field
+  - title: Mechanical Intern
+    company: Nilper
+    company_url: 'https://www.nilper.com/?lang=en'
+    company_logo:
+    location: Tehran
+    date_start: '2018-04-15'
+    date_end: '2018-05-01'
+    description: |2-
+        * Mechanical design (Solidworks)
+        * Become familiar with industrial manufacturing processes
 
 design:
   columns: '2'
