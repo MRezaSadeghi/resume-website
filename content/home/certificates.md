@@ -35,6 +35,35 @@ item:
     organization_url: https://parsitek.com/
     certificate_url: ""
 
+  - title: Deep Learning Spring School
+    date_start: '2019-05-15'
+    organization: Kharazmi University (ACM)
+    organization_url: https://evand.com/events/dlss?icn=organizer&ici=2
+    certificate_url: ""
+
+  - title: Bayesian statistics
+    date_start: '2020-04-15'
+    organization: Coursera
+    organization_url: https://www.coursera.org/
+    certificate_url: "Certificates/Bayesian%20Statistics.png"
+
+  - title: NDT Workshop
+    date_start: '2020-06-15'
+    organization: UT University
+    organization_url:
+    certificate_url:
+
+  - title: Time series analysis and forecasting using Python
+    date_start: '2020-08-15'
+    organization: Udemy
+    organization_url: https://www.udemy.com/
+    certificate_url: "Certificates/Udemy%20-%20Time%20series.png"
+
+  - title: General Engineering Acoustics
+    date_start: '2018-03-15'
+    organization: ISAV
+    organization_url: https://isav.ir/en
+    certificate_url: "Certificates/ISAV%20General%20Acoustics.png"
 design:
   columns: '2'
 ---
