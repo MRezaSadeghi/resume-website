@@ -25,7 +25,7 @@ experience:
   - title: R&D Mechanical Engineer
     company: ISENSE
     company_url: 'http://isenseco.com/'
-    company_logo:
+    company_logo: isense_logo
     location: Tehran
     date_start: '2021-08-15'
     date_end: '2022-08-15'
