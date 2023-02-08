@@ -31,7 +31,7 @@ experience:
     date_end: '2022-08-15'
     description: |2-
         * Vibration analysis: signal processing and research on mechanical joints looseness and accelerometers accuracy
-        * Vibration analysis: signal processing and research on mechanical joints looseness
+        * Designed & built a calibration setup with nearly 10 μm accuracy for crack meters
         * Designed, analyzed, and manufactured temperature and strain data loggers enclosures
 
   - title: Mechanical Designer
@@ -49,7 +49,7 @@ experience:
   - title: Dynamics and Vibration Teaching Assistant
     company: IUST
     company_url: 'http://mech.iust.ac.ir/'
-    company_logo:
+    company_logo: iust_logo
     location: Tehran
     date_start: '2020-02-01'
     date_end: '2021-04-01'
