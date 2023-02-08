@@ -27,12 +27,12 @@ feature:
     name: Python
 
   - description: "Moderately Familiar"
-    icon: adams_icon
+    icon: adams_logo
     icon_pack: custom
     name: ADAMS
 
   - description: "Moderately Familiar"
-    icon: comsol_icon
+    icon: comsol_logo
     icon_pack: custom
     name: COMSOL
 
