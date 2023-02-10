@@ -30,7 +30,7 @@ links:
 # TMSC Reactor System
 A significant number of chemical reactions, besides a reactor, require a measurement system to allow the technicians to be aware of reaction parameters. TMSC Reactor is a device to do both stirring and monitoring. This device is able to stir the batch with various shafts and impellers at the desired speed and also it is able to monitor an index of the implied torque from the composition inside the batch. Various parts of this device will discuss in the following sections.  It is worth mentioning that similar industrial assets (without the software) cost more than 1100$ and our device is a low-budget solution for about half of the conventional assets price.
 
-<p align="center"><a><img src="https://www.lambertmech.ir/project/pmdc/TMSC-P21.jpg" alt="TMSC P21" style="width:70%;" ></a></p>
+<p align="center"><a><img src="https://www.lambertmech.ir/project/pmdc/TMSC-P21.png" alt="TMSC P21" style="width:70%;" ></a></p>
 
 ## Properties
 - Speed: 30-500 rpm
@@ -60,6 +60,6 @@ The TMCS software has various applications. The most significant application of 
 ## Previous version
 The previous version of the current TMCS was TMCS P10 which has lower efficiency and is not able to connect to the computer. The maximum rotational speed and torque of TMSC P10 are 300 rpm and 1.5 kg-cm respectively. The picture below indicates both devices (TMCS P21 and P10).
 
-<p align="center"><a><img src="https://www.lambertmech.ir/project/pmdc/TMSC-P10-Label.jpg" alt="TMSC P10" style="width:60%;" ></a></p>
+<p align="center"><a><img src="https://www.lambertmech.ir/project/pmdc/TMSC-P10-Label.png" alt="TMSC P10" style="width:60%;" ></a></p>
 
-<p align="center"><a><img src="https://www.lambertmech.ir/project/pmdc/TMSC-P21-Label.jpg" alt="TMSC P21" style="width:70%;" ></a></p>
+<p align="center"><a><img src="https://www.lambertmech.ir/project/pmdc/TMSC-P21-Label.png" alt="TMSC P21" style="width:70%;" ></a></p>
