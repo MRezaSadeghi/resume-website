@@ -56,7 +56,7 @@ experience:
     description: |2-
         * TA of mechanical vibration and vector dynamics
         * Tutor of MATLAB for three semesters
-        * Head of MATLAB competition instructors for two competitions (SSME)
+        * Head of (MATLAB competition)[https://www.lambertmech.ir/activities/matlab-2022/] instructors for two competitions (SSME)
 
   - title: R&D Mechanical Intern
     company: Nabz

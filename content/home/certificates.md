@@ -23,6 +23,13 @@ date_format: Jan 2006
 #   Leave other parameters empty if not required.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 item:
+  - title: Linear Algebra for Machine Learning and Data Science
+    date_start: '2023-02-19'
+    organization: Coursera
+    organization_url: https://www.coursera.org/
+    certificate_url: https://coursera.org/verify/L48B6R8NA3GU
+
+
   - title: Bayesian Signal and Image Processing
     date_start: '2020-02-17'
     organization: ISAV
@@ -45,7 +52,7 @@ item:
     date_start: '2020-04-15'
     organization: Coursera
     organization_url: https://www.coursera.org/
-    certificate_url: "Certificates/Bayesian%20Statistics.png"
+    certificate_url: https://coursera.org/verify/L97S9B2H9VQY
 
   - title: NDT Workshop
     date_start: '2020-06-15'
