@@ -72,4 +72,5 @@ I am Reza Sadeghi, A mechanical engineer. I am currently a master student in ene
 
 This webpage, Lambert Mech, is a way to share my experiences and describe some exciting topics. It has been a short time since I started working on this website. So, it needs to include more details, and I always try to find some free time to fill it :).
 
+You can see an overview of my previous projects from [here]().
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/resume.pdf" "newtab" >}}resume{{< /staticref >}}.
