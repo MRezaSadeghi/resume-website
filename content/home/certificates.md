@@ -40,7 +40,7 @@ item:
     date_start: '2022-08-15'
     organization: Parsi Tek
     organization_url: https://parsitek.com/
-    certificate_url: ""
+    certificate_url: "Certificates/RotorDynamic-ParsiTek.png"
 
   - title: Deep Learning Spring School
     date_start: '2019-05-15'
