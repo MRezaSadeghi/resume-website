@@ -22,58 +22,73 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
+  - title: Laboratory Assistant
+    company: Linkoping University
+    company_url: 'https://liu.se/en/organisation/liu/iei/kmat'
+    company_logo: isense_logo
+    location: Sweden, Linkoping
+    date_start: '2021-08-15'
+    date_end: '2022-08-15'
+    description: |2-
+        * Set up a 50kN tensile test machine and conducted approximately 150 tests in total (ISO 6892) at KMAT Lab.
+        * Lecturing on the theoretical background of the testing process
+        * Managing Mechanics Laboratory & preparing pneumatic test setup - FLUMES Lab
+        
   - title: R&D Mechanical Engineer
     company: ISENSE
     company_url: 'http://isenseco.com/'
     company_logo: isense_logo
-    location: Tehran
+    location: Iran, Tehran
     date_start: '2021-08-15'
     date_end: '2022-08-15'
     description: |2-
-        * Vibration analysis: signal processing and research on mechanical joints looseness and accelerometers accuracy
-        * Designed & built a calibration setup with nearly 10 μm accuracy for crack meters
-        * Designed, analyzed, and manufactured temperature and strain data loggers enclosures
+        * Conducted vibration analysis using SIES acceleration sensors; diagnosed looseness for post-earthquake damage assessment devices, performed signal processing, and researched mechanical joints.
+        * Designed & built a calibration setup with nearly 10 μm accuracy for crack meters.
+        * Evaluated the accuracy of three versions of SIES acceleration sensors.
+        * Performed thermal & dynamic analysis of data logging enclosures and prepared final revisions for manufacturing.
 
   - title: Mechanical Designer
     company: IPC Company
     company_url: 'http://ipcweld.com/'
     company_logo:
-    location: Tehran
+    location: Iran, Tehran
     date_start: '2019-10-01'
     date_end: '2021-03-01'
     description: |2-
-        * Develop a laboratory pressure mat using FSR and its interactive software for movement monitoring (using PyQt and Arduino)
-        * Designed rectifier metal enclosures
-        * Designed PMMA structures and enclosures for switching rectifiers
+        * Developed a prototype of a laboratory pressure mat using FSR and its interactive software for real-time movement monitoring (using PyQt and Arduino).
+        * Designed PMMA structures and enclosures for switching rectifiers.
+        * Developed sheet metal Design of rectifier enclosures and power suppliers.
 
-  - title: Dynamics and Vibration Teaching Assistant
+  - title: Teaching Assistant
     company: IUST
     company_url: 'http://mech.iust.ac.ir/'
     company_logo: iust_logo
-    location: Tehran
+    location: Iran, Tehran
     date_start: '2020-02-01'
     date_end: '2021-04-01'
     description: |2-
-        * TA of mechanical vibration and vector dynamics
-        * Tutor of MATLAB for three semesters
-        * Head of MATLAB competition instructors for two competitions (SSME)
+        * Teaching Assistant (TA) of Mechanical Vibration
+        * Teaching Assistant (TA) Dynamics
+        * Tutor of MATLAB for three semesters - SSME
+        * Head instructor in the first and second national MATLAB competitions
 
   - title: R&D Mechanical Intern
-    company: Nabz
+    company: Nabz Ava
     company_url: 'https://www.nabzgroup.com/'
     company_logo:
-    location: Tehran
+    location: Iran, Tehran
     date_start: '2019-04-14'
     date_end: '2019-09-18'
     description: |2-
-        * Designed and manufactured an acoustic chamber
         * Analyzed the stethoscope acoustic structure in Abaqus
+        * Design and build an acoustic chamber
         * Researched signal & systems field
+
   - title: Mechanical Intern
     company: Nilper
     company_url: 'https://www.nilper.com/?lang=en'
     company_logo:
-    location: Tehran
+    location: Iran, Parand Industrial Town
     date_start: '2018-04-15'
     date_end: '2018-05-01'
     description: |2-
