@@ -25,7 +25,7 @@ experience:
   - title: Laboratory Assistant
     company: Linkoping University
     company_url: 'https://liu.se/en/organisation/liu/iei/kmat'
-    company_logo: isense_logo
+    company_logo: liu_logo
     location: Sweden, Linkoping
     date_start: '2021-08-15'
     date_end: '2022-08-15'
