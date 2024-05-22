@@ -33,7 +33,7 @@ experience:
         * Set up a 50kN tensile test machine and conducted approximately 150 tests in total (ISO 6892) at KMAT Lab.
         * Lecturing on the theoretical background of the testing process
         * Managing Mechanics Laboratory & preparing pneumatic test setup - FLUMES Lab
-        
+
   - title: R&D Mechanical Engineer
     company: ISENSE
     company_url: 'http://isenseco.com/'
