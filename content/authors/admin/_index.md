@@ -68,10 +68,11 @@ email: ""
 highlight_name: false
 ---
 
-I am Reza Sadeghi, A mechanical engineer. I am currently a master student in energy engineering at the Polytechnic University of Milan. My research journey started with Optimization algorithms and Condition monitoring, and now, my research activity is focused on Digital Twins, Fault Diagnosis and Risk Analysis. As an engineer, I worked at ISENSE health monitoring and IPC company. Also led and was involved in some industrial projects such as [TMSC](https://www.lambertmech.ir/project/pmdc/) and TFM monitoring.
+I am Reza Sadeghi, a mechanical engineer with a Master’s degree in energy engineering from the Polytechnic University of Milan. 
+My expertise spans condition monitoring, fault diagnosis, and digital twins. My career has seen me working at ISENSE Health Monitoring and IPC Company, where I have led and participated in several industrial projects, including [TMSC](https://www.lambertmech.ir/project/pmdc/) and TFM monitoring.
 
-This webpage, Lambert Mech, is a way to share my experiences and describe some exciting topics. It has been a short time since I started working on this website. So, it needs to include more details, and I always try to find some free time to fill it :).
+I have a deep passion for research, which has been the driving force behind my work. Through Lambert Mech, I aim to share my experiences and explore fascinating topics within the field. This website is a growing project, and I am dedicated to enhancing it with more detailed content as I find the time.
 
-You can see an overview of my previous projects from [here](https://www.lambertmech.ir/uploads/Project-Overview.png).  
+You can see an overview of my previous projects from [here](https://www.lambertmech.ir/uploads/Project-Overview-2.png).  
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/resume.pdf" "newtab" >}}resume{{< /staticref >}}.
