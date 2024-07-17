@@ -1,6 +1,6 @@
 ---
 title: Pressure Mat
-summary: Pressure Mat is an under-development industrial measurement device to evaluate the force distribution of various parts.
+summary: Pressure Mat is an under-development industrial measurement device designed for evaluating force distribution to enhance ergonomic research and tool development.
 
 tags:
 - industrial
@@ -29,10 +29,14 @@ links:
 ---
 
 # Pressure Mat
-Pressure Mat is an under development industrial measurement device to evaluate the force distribution of various parts. In this system, tools and components set on the sensor pad and the designed software shows the force distribution of the tool.
+Project Overview:
+Pressure Mat is an industrial measurement device under development designed to evaluate the force distribution across various parts. This system involves placing tools and components on a sensor pad, with specialized software displaying the force distribution of the tool.
 
-The main use of this device is for ergonomic research and developing more compatible tools for human body. The picture below shows the software that is already developed and customized for ergonomic purposes. But the sensor configuration is still under development.
+Applications:
+The primary application of this device is in ergonomic research, founded by [IPC Co](http://ipcweld.com/), aimed at developing tools that are more compatible with the human body. The software, as shown in the image below, has already been developed and customized for ergonomic purposes, though the sensor configuration is still being refined.
 
-You can watch the working prototype of the device from this link on [YouTube](https://youtube.com/shorts/hKJCrB40PDo?feature=share).
+Demonstration:
+You can watch a working prototype of the Pressure Mat device [here on YouTube](https://youtube.com/shorts/hKJCrB40PDo).
+
 
 <p align="center"><a><img src="https://www.lambertmech.ir/project/pressure-mat/featured.jpg" alt="PM-Software" style="width:70%;" ></a></p>

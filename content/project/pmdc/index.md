@@ -27,38 +27,42 @@ links:
 #   Otherwise, set `slides = ""`.
 ---
 
+
+
 # TMSC Reactor System
-A significant number of chemical reactions, besides a reactor, require a measurement system to allow the technicians to be aware of reaction parameters. TMSC Reactor is a device to do both stirring and monitoring. This device is able to stir the batch with various shafts and impellers at the desired speed and also it is able to monitor an index of the implied torque from the composition inside the batch. Various parts of this device will discuss in the following sections.  It is worth mentioning that similar industrial assets (without the software) cost more than 1100$ and our device is a low-budget solution for about half of the conventional assets price.
+
+The TMSC Reactor System is an advanced device designed for both stirring and monitoring viscosity changes in chemical reactions. It allows technicians to control reaction parameters efficiently. This versatile system can stir batches using various shafts and impellers at desired speeds, and it also monitors the implied torque from the composition inside the batch. 
+
+Similar industrial assets without software cost over $1100, while our device offers a low-budget solution at about one third the price.
 
 <p align="center"><a><img src="https://www.lambertmech.ir/project/pmdc/TMSC-P21.png" alt="TMSC P21" style="width:70%;" ></a></p>
 
 ## Properties
-- Speed: 30-500 rpm
-- Torque: up to 4.2 kg-cm
-- Shaft diameter: 5-10 mm
-- Shaft length: up to 50cm
-- Input voltage: 220 v
-- Maximum power: 180W
+- **Speed:** 30-500 rpm
+- **Torque:** up to 4.2 kg-cm
+- **Shaft diameter:** 5-10 mm
+- **Shaft length:** up to 50 cm
+- **Input voltage:** 220 V
+- **Maximum power:** 180 W
 
 ## Main Parts
-The main parts of TMSC include the shaft and impeller, motor, power & driver box, and the TMCS software.
 
-### Shaft system and Speed control
-The provided chunk at the end of the motor makes the device customizable enough to work with 5-10 mm diameter shafts. Also based on the geometry of the very end of the shaft various impellers can be installed.
+### Shaft System and Speed Control
+The motor's customizable chunk allows compatibility with shafts of 5-10 mm in diameter. Various impellers can be installed based on the shaft's geometry.
 
 ### Motor
-The motor of the TMCS reactor system is a 24v DC motor which is driven and controlled by the power box and software. Due to the great importance of the resonance effect, the structure has passed various vibrational analyses in addition to dynamic and static tests. The current motor stall current is not more than 8A, but the power box can provide power for 24V DC motors with more stall current.
+The TMSC Reactor System uses a 24V DC motor controlled by a power box and software. The system has undergone vibrational, dynamic, and static tests to ensure stability. The motor's stall current is below 8A, and the power box supports higher current motors.
 
 <p align="center"><a><img src="https://www.lambertmech.ir/project/pmdc/vibratoin-analysis.jpg" alt="Vibration Analysis" style="width:70%;" ></a></p>
 
-### Power & driver box
-This box is the heart of the system and allows users to control the device with or without the software. This box directly connects to a 220V AC power supplier and contains additional components to keep the device and user safe. Also for other lab applications, this box can be used as a 5V and 3A (max) power supplier. Moreover, when the computer is not connected user still is able to set a specific rotational speed and by using the PID algorithm the speed will be fixed even if the composition's viscosity changes.
+### Power & Driver Box
+The heart of the system, this box, connects to a 220V AC power source and allows control with or without software. It includes safety components and can also serve as a 5V, 3A power supplier for other lab applications. Users can set specific rotational speeds, maintained by a PID algorithm even with changing composition viscosity.
 
 ### Software
-The TMCS software has various applications. The most significant application of this software is monitoring and saving the data in real time. Moreover, users can change the time constant of the PID controller. This software Do Not need any specific settings and just by connecting the USB port to the power box and setting the COM, it will run easily. In other words, when the computer is connected, the embedded processor will not do the controlling process and the CPU of the computer will do it in a more efficient way.
+The TMSC software monitors and saves data in real-time, adjusts the PID controller's time constant, and requires no special settings. It runs efficiently by connecting the USB port to the power box and setting the COM, with the computer's CPU handling control processes when connected.
 
-## Previous version
-The previous version of the current TMCS was TMCS P10 which has lower efficiency and is not able to connect to the computer. The maximum rotational speed and torque of TMSC P10 are 300 rpm and 1.5 kg-cm respectively. The picture below indicates both devices (TMCS P21 and P10).
+## Previous Version
+The earlier TMSC P10 model had lower efficiency and couldn't connect to a computer. It had a maximum rotational speed of 300 rpm and torque of 1.5 kg-cm. Below are images of both the TMCS P21 and P10 models.
 
 <p align="center"><a><img src="https://www.lambertmech.ir/project/pmdc/TMSC-P10-Label.png" alt="TMSC P10" style="width:60%;" ></a></p>
 

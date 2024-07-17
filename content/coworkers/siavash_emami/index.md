@@ -1,6 +1,6 @@
 ---
 title: Siavash Emami
-summary: A mechanical engineer who is interseted in Control Theory, Quadcopters and Vector Dynamics.
+summary: Mechanical engineer, working at ISENSE.
 
 date: ""
 

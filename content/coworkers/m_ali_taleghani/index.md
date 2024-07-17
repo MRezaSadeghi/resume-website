@@ -1,6 +1,6 @@
 ---
 title: M. Ali Taleghani
-summary: A Polymer engineer, CEO of Beta Resin.
+summary: Polymer engineer, CEO of Beta Resin (Baspar Taban Arya).
 
 date: ""
 
